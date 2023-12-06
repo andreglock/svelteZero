@@ -12,7 +12,7 @@ const config = {
 			// default options are shown. On some platforms
 			// these options are set automatically — see below
 			paths: {
-				base: 'https://github.com/andreglock/Aditivos',
+				base: 'https://github.com/andreglock/svelteZero',
 			},
 			pages: 'docs',
 			assets: 'docs',
